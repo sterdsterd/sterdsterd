@@ -2,19 +2,22 @@
 
 Frontend developer working across web, React Native, and native code when needed.
 
-I build and maintain design systems. Interested in HCI and interaction design.
+I design, build, and maintain design systems. Interested in HCI and interaction design.
 
 [sterd.dev](https://sterd.dev) · [Portfolio](https://sterd.dev/portfolio/) · [me@sterd.dev](mailto:me@sterd.dev) · [LinkedIn](https://www.linkedin.com/in/yulwon/)
 
-## Career and Education
+## Career
 
-| Period | Where | Role |
-| --- | --- | --- |
-| 2025.08 - Present | **Edupointer Co., Ltd.** | Frontend Lead |
-| 2026.09 - Present | **GDGoC Konkuk 26-27** | Organizer |
-| 2025.09 - 2026.06 | **GDGoC Konkuk 25-26** | Member |
-| 2022.03 - Present | **Konkuk University** | Computer Science and Engineering, undergraduate |
-| 2023.09 - 2025.06 | **Republic of Korea Air Force** | 11th Fighter Wing, Office of Public Affairs. Video production and editing |
+- **Edupointer Co., Ltd.** · 2025.08 - Present
+  - Frontend Lead
+  - React Native · React · Design Systems
+- **GDGoC Konkuk** · 2025.09 - Present
+  - Organizer · 2026.09 - Present
+  - Member · 2025.09 - 2026.06
+- **Konkuk University** · 2022.03 - Present
+  - Computer Science and Engineering, undergraduate
+- **Republic of Korea Air Force** · 2023.09 - 2025.06
+  - 11th Fighter Wing, Office of Public Affairs. Video production and editing
 
 ## Tech
 
